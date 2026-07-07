@@ -80,4 +80,10 @@ TaskManager uses a modern CSS-variable approach to theming. To override or adjus
 - Spring Method Security (`@PreAuthorize`) is actively used to block unauthorized backend API access even if frontend elements are manipulated.
 
 ---
-*Built with ❤️ for modern agile teams.*
+### Screenshots
+<img width="1320" height="774" alt="brave_R4qjGGzc5n" src="https://github.com/user-attachments/assets/90b841b4-bcc2-483b-86cb-77652fd30044" />
+<img width="1320" height="774" alt="brave_ghTTuVvjrT" src="https://github.com/user-attachments/assets/7bbfe66b-b477-4a3f-bd2d-cb1852c8c88e" />
+<img width="1320" height="774" alt="brave_5TnR6Pbp5M" src="https://github.com/user-attachments/assets/46c52e29-f48d-4e4d-91ae-3fbcec6f2dbb" />
+<img width="1320" height="774" alt="brave_0XEYabf6bE" src="https://github.com/user-attachments/assets/df3b6057-38a6-4512-996b-86011d339808" />
+
+
